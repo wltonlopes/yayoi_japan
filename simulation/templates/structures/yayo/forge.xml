@@ -2,7 +2,7 @@
 <Entity parent="template_structure_military_forge">
   <Identity>
     <Civ>yayo</Civ>
-    <SpecificName></SpecificName>
+    <SpecificName>Kanutiba</SpecificName>
   </Identity>
    <ProductionQueue>
     <BatchTimeModifier>0.8</BatchTimeModifier>

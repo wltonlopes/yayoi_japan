@@ -12,6 +12,8 @@
   </Health>
   <Identity>
     <GenericName>Female Citizen</GenericName>
+        <SpecificName>Womina</SpecificName>
+    
     <Icon>units/umay_support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>

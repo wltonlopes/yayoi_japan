@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.82.7</authoring_tool>
     </contributor>
-    <created>2022-01-30T21:31:58</created>
-    <modified>2022-01-30T21:31:58</modified>
+    <created>2022-02-01T10:24:34</created>
+    <modified>2022-02-01T10:24:34</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -118,6 +118,15 @@
             </technique_common>
           </bind_material>
         </instance_geometry>
+        <node id="prop_projectile" name="prop_projectile" type="NODE">
+          <matrix sid="transform">-1.158658 4.51198e-7 0 0 -4.51198e-7 -1.158658 0 0.6958019 0 0 1.158658 15.24587 0 0 0 1</matrix>
+        </node>
+        <node id="prop_loaded-projectile" name="prop_loaded-projectile" type="NODE">
+          <matrix sid="transform">-1.158658 4.51198e-7 0 0 -4.51198e-7 -1.158658 0 0.6958019 0 0 1.158658 14.49037 0 0 0 1</matrix>
+        </node>
+        <node id="prop_garrisoned" name="prop_garrisoned" type="NODE">
+          <matrix sid="transform">-1.158658 4.51198e-7 0 0 -4.51198e-7 -1.158658 0 0.6958019 0 0 1.158658 15.24587 0 0 0 1</matrix>
+        </node>
       </node>
     </visual_scene>
   </library_visual_scenes>
