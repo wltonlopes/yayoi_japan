@@ -3,7 +3,7 @@
 	"Culture": "Japaneses",
 	"Name": "Yayois",
 	"Emblem": "session/portraits/emblems/emblem_yayo.png",
-	"History":"The Tarascan state was a state in pre-Columbian Mexico, roughly covering the geographic area of the present-day Mexican state of Michoacán, parts of Jalisco, and Guanajuato. At the time of the Spanish conquest, it was the second-largest state in Mesoamerica.The state was constituted of a network of tributary systems and gradually became increasingly centralized, under the control of the ruler of the state called the cazonci. The Tarascan capital was located at Tzintzuntzan on the banks of Lake Pátzcuaro, and, according to Purépecha oral tradition was founded by the first cazonci Tariácuri and dominated by his lineage, the Uacúsecha (Eagles in Purépecha language); however the largest city may have been Angamuco",
+	"History":"",
 	"Music":[
 		{ "File": "red_dawn.ogg", "Type": "peace" },
 		{ "File": "hill_of_sorrows.ogg", "Type": "peace" }

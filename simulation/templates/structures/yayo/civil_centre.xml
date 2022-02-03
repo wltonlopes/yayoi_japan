@@ -4,6 +4,7 @@
     <Civ>yayo</Civ>
     <SpecificName>Nezirö</SpecificName>
   </Identity>
+
   <VisualActor>
     <Actor>structures/yayoi/civic_center.xml</Actor>
   </VisualActor>
