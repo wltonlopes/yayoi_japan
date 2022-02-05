@@ -14,6 +14,10 @@
   <VisualActor>
     <Actor>structures/yayoi/fortress.xml</Actor>
   </VisualActor>
+  <Trainer>
+    <Entities datatype="tokens">
+      -units/{civ}/champion_infantry
+    </Entities>
   <WallPiece>
     <Length>23</Length>
     <Indent>7.8</Indent>

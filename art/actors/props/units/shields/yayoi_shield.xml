@@ -3,15 +3,15 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="s_1">
-      <mesh>props/shield/yayoi_s_1.dae</mesh>
+      <mesh>props/shield/yayoi_s_tedate_a.dae</mesh>
       <textures>
-        <texture file="structural/yayoi_struct.png" name="baseTex"/>
+        <texture file="props/shiled_tedate_a_1.png" name="baseTex"/>
       </textures>
     </variant>
         <variant frequency="1" name="s_2">
-      <mesh>props/shield/yayoi_s_2.dae</mesh>
+      <mesh>props/shield/yayoi_s_tedate_a.dae</mesh>
       <textures>
-        <texture file="structural/yayoi_struct.png" name="baseTex"/>
+        <texture file="props/shiled_tedate_a_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

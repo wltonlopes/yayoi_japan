@@ -4,9 +4,6 @@
     <Civ>yayo</Civ>
     <SpecificName>Yagura</SpecificName>
   </Identity>
-  <ProductionQueue>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
-  </ProductionQueue>
   <VisualActor>
     <Actor>structures/yayoi/scout_tower.xml</Actor>
   </VisualActor>
