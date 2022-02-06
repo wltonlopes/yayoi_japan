@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="civ/athen|hoplite|template_unit_champion_infantry_spearman">
+<Entity parent="civ/yayo|template_unit_champion_infantry_swordsman">
   <Identity>
-    <GenericName>F Champion Swordsman</GenericName>
+    <GenericName>Champion Swordsman</GenericName>
     <SpecificName>Turuki Tupamönö</SpecificName>
      <Icon>units/yayo/champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/yayoi/infantry_swordsman_e.xml</Actor>
+    <Actor>units/yayoi/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 </Entity>

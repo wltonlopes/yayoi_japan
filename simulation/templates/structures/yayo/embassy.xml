@@ -20,6 +20,7 @@
       units/{civ}/infantry_pikeman_b
       units/{civ}/infantry_slinger_b
     </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/yayoi/yayoi_jomon_village.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
