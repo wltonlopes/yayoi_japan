@@ -1,47 +1,19 @@
 ﻿{
 	"Code": "yayo",
 	"Culture": "Yamatai",
-	"Name": "Wakoku",
-	"Emblem": "session/portraits/emblems/emblem_yayo.png",
-	"History":"",
 	"Music":[
 		{ "File": "red_dawn.ogg", "Type": "peace" },
 		{ "File": "hill_of_sorrows.ogg", "Type": "peace" }
-	],
-	"Factions":
-	[
-		{
-			"Name": "",
-			"Description": ".",
-			"Technologies":
-			[
-
-			],
-			"Heroes":
-			[
-			] 
-		} 
 	],
 	"CivBonuses":
 	[
 	],
 	"TeamBonuses":
 	[],
-	"Structures":
-	[
-		{
-		},
-		{
-
-		},
-		{
-
-		}
-	],
 	"WallSets":
 	[
 		"structures/wallset_palisade",
-		"structures/rome/wallset_stone"
+		"structures/yayo/wallset_stone"
 	],
 	"StartEntities":
 	[
@@ -61,25 +33,13 @@
 			"Count": 5
 		}
 	],
-	"Formations":
-	[
-		"special/formations/null",
-		"special/formations/box",
-		"special/formations/column_closed",
-		"special/formations/line_closed",
-		"special/formations/column_open",
-		"special/formations/line_open",
-		"special/formations/flank",
-		"special/formations/skirmish",
-		"special/formations/wedge",
-		"special/formations/battle_line"
-	],
+
 	"AINames":
 	[
 
-      "Jimmu",	
-      "Suizei",
-      "Annei",
+    "Jimmu",	
+    "Suizei",
+    "Annei",
 		"Itoku",
 		"Kosho",
 		"Koan",

@@ -4,7 +4,6 @@
     <Civ>yayo</Civ>
     <SelectionGroupName>units/yayo/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Milicia Javallineer</GenericName>
-    <RequiredTechnology>phase_city</RequiredTechnology>
     <SpecificName>Nag ë tuki</SpecificName>
     <Icon>units/yayo/javelineer.png</Icon>
   </Identity>

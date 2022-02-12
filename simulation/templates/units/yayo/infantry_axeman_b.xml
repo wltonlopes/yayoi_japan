@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_melee_axeman">
+<Entity parent="civ/yayo|template_unit_infantry_melee_axeman">
   <Identity>
-    <Civ>yayo</Civ>
     <SelectionGroupName>units/yayo/infantry_axeman_b</SelectionGroupName>
     <GenericName>Milicia Axeman</GenericName>
     <SpecificName>Onodukapi</SpecificName>

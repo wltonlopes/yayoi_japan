@@ -16,12 +16,12 @@
   <group>
     <variant frequency="1" name="b1">
       <textures>
-        <texture file="skeletal/korean_b_01.png" name="baseTex"/>
+        <texture file="skeletal/korean_e_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="b2">
       <textures>
-        <texture file="skeletal/korean_b_02.png" name="baseTex"/>
+        <texture file="skeletal/korean_e_02.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

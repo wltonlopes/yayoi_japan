@@ -10,7 +10,7 @@
         <prop actor="props/units/weapons/jav.xml" attachpoint="projectile"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+        <texture file="skeletal/yayoi_isw_b.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

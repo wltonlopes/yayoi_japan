@@ -9,7 +9,7 @@
         <prop actor="props/units/weapons/slingrock.xml" attachpoint="projectile"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+        <texture file="skeletal/yayoi/jomon_cloth_a.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

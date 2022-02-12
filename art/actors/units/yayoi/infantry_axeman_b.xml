@@ -8,7 +8,7 @@
         <prop actor="props/units/weapons/yayoi_axe_01.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/yayoi_isw_e.png" name="baseTex"/>
+        <texture file="skeletal/yayoi_isw_b.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
