@@ -13,8 +13,7 @@
   <Identity>
     <GenericName>Female Citizen</GenericName>
         <SpecificName>Womina</SpecificName>
-    
-    <Icon>units/umay_support_female_citizen.png</Icon>
+    <Icon>units/yayo/support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/yayoi/female_citizen.xml</Actor>

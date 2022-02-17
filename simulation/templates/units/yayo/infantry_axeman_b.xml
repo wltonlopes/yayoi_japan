@@ -4,7 +4,7 @@
     <SelectionGroupName>units/yayo/infantry_axeman_b</SelectionGroupName>
     <GenericName>Milicia Axeman</GenericName>
     <SpecificName>Onodukapi</SpecificName>
-    <Icon>units/yayo/axeman.png</Icon>
+    <Icon>units/yayo/infantry_axeman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/yayo/infantry_axeman_a</Entity>

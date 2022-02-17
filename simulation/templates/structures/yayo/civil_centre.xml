@@ -4,13 +4,20 @@
     <Civ>yayo</Civ>
     <SpecificName>Nezirö</SpecificName>
   </Identity>
-    <Trainer>
+    <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      unlock_mercenary_cavalry
+    </Technologies>
+  </Researcher>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_axeman_b
       units/{civ}/infantry_javelineer_b
       units/{civ}/hero_himiko
       units/{civ}/hero_keiko
       units/{civ}/hero_wousu
+      units/yayo/cavalry_archer_b
     </Entities>
   </Trainer>
   <VisualActor>

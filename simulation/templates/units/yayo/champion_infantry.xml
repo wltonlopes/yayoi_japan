@@ -3,7 +3,7 @@
   <Identity>
     <GenericName>Champion Swordsman</GenericName>
     <SpecificName>Turuki Tupamönö</SpecificName>
-     <Icon>units/yayo/champion_infantry.png</Icon>
+     <Icon>units/yayo/champion_infantry_swordsman.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/yayoi/infantry_swordsman_c.xml</Actor>
