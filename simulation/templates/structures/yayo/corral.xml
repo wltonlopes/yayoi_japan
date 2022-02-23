@@ -14,6 +14,11 @@
   <Obstruction>
     <Static width="10.0" depth="14.0"/>
   </Obstruction>
+   <Trainer>
+    <Entities datatype="tokens">
+      -gaia/fauna_sheep_trainable
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/yayoi/corral.xml</Actor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>

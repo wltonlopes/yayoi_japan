@@ -10,6 +10,6 @@
     <Icon>units/mace_siege_ram.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/macedonians/siege_ram.xml</Actor>
+    <Actor>structures/yayoi/siege_ram.xml</Actor>
   </VisualActor>
 </Entity>
